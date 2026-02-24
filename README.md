@@ -75,10 +75,3 @@ Goal: Autonomous robotic systems powered by AI.
 </p>
 
 ---
-
-## 🐍 Contribution Snake Animation
-
-Add this section AFTER you enable GitHub Actions (steps below):
-
-```markdown
-![snake gif](https://github.com/Elikana-Einstein/Elikana-Einstein/blob/output/github-contribution-grid-snake.svg)
