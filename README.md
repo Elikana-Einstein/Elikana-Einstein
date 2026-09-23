@@ -10,11 +10,11 @@
 
 ## 🧠 AI Engineer Path
 
-- 🔬 Neural Networks from Scratch
+- 🔬 Neural Networks 
 - 📊 Machine Learning with PyTorch
 - 🧮 Mathematics for AI
 - 🧠 Backpropagation & Optimization
-- 👁️ Computer Vision (Next Phase)
+- 👁️ Agentic rag
 
 🚀 Mission: Build real-world intelligent systems.
 
